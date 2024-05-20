@@ -9,7 +9,7 @@
 
 # Donaswap Periphery
 
-In-depth documentation on Donaswap is available at [donaswap.com](https://donaswap.com).
+In-depth documentation on Donaswap is available at [donaswap.io](https://donaswap.io).
 
 The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@donaswap/periphery@latest/).
 
